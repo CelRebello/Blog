@@ -16,7 +16,7 @@ keywords:
 autoThumbnailImage: true
 thumbnailImagePosition: "top"
 coverImage: //upload.wikimedia.org/wikipedia/commons/6/67/Rio_de_Janeiro_Mountains.jpg
-#coverImage: /img/Capa.jpg
+coverImage: /img/Capa.jpg
 thumbnailImage: ipanema.png
 metaAlignment: center
 ---
@@ -51,6 +51,6 @@ O avanço dos meetups do Rio de Janeiro contribuiu para a divulgação das R-Lad
 
 ## Licenças
 
-hugo-tranquilpeak-theme Tem licença [GNU General Public License v3.0](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/LICENSE).
-
+hugo-tranquilpeak-theme tem licença [GNU General Public License v3.0](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/LICENSE)
+<br>Os Anúncios são para custear o servidor onde o blog é hospedado.</br>
 
