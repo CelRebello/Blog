@@ -2,122 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on R-Ladies Brasil Blog</title>
-    <link>https://testerladies.netlify.com/post/</link>
+    <link>https://rladiesbr.org/post/</link>
     <description>Recent content in Posts on R-Ladies Brasil Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://testerladies.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rladiesbr.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como R-Ladies começou no Brasil</title>
-      <link>https://testerladies.netlify.com/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</link>
+      <link>https://rladiesbr.org/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</guid>
-      <description>&lt;p&gt;1° de janeiro de 2017 surgia R-Ladies Rio
+      <guid>https://rladiesbr.org/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</guid>
+      <description>&lt;!--showTags:false--&gt;
+
+&lt;!--showPagination:false--&gt;
+
+&lt;p&gt;1° de janeiro de 2017 surgia R-Ladies Rio
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>O R-Ladies Rio.</title>
-      <link>https://testerladies.netlify.com/2018/05/o-r-ladies-rio./</link>
+      <title>Mas, afinal... o que é R?</title>
+      <link>https://rladiesbr.org/2018/05/mas-afinal...-o-que-%C3%A9-r/</link>
       <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/2018/05/o-r-ladies-rio./</guid>
-      <description>&lt;p&gt;R-Ladies Rio foi primeiro chapter R-Ladies no Brasil.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies Brasileiras na área, se derrubar é pênalti.</title>
-      <link>https://testerladies.netlify.com/2018/05/r-ladies-brasileiras-na-%C3%A1rea-se-derrubar-%C3%A9-p%C3%AAnalti./</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2018/05/r-ladies-brasileiras-na-%C3%A1rea-se-derrubar-%C3%A9-p%C3%AAnalti./</guid>
-      <description>&lt;p&gt;Blog Lindo e cheio de conteúdo acima da média. Todo produzido por gente brilhante.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Por que R?</title>
-      <link>https://testerladies.netlify.com/2015/05/por-que-r/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2015/05/por-que-r/</guid>
-      <description>&lt;p&gt;Veja aqui os primeiros passos para iniciar no R e no mundo sensacional da an&amp;aacute;lise de dados.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>highlighted code showcase</title>
-      <link>https://testerladies.netlify.com/2015/03/highlighted-code-showcase/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2015/03/highlighted-code-showcase/</guid>
-      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tags plugins showcase</title>
-      <link>https://testerladies.netlify.com/2014/10/tags-plugins-showcase/</link>
-      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2014/10/tags-plugins-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hidden social section showcase</title>
-      <link>https://testerladies.netlify.com/2014/08/hidden-social-section-showcase/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2014/08/hidden-social-section-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hidden tag section showcase</title>
-      <link>https://testerladies.netlify.com/2014/08/hidden-tag-section-showcase/</link>
-      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2014/08/hidden-tag-section-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hidden pagination showcase</title>
-      <link>https://testerladies.netlify.com/2014/08/hidden-pagination-showcase/</link>
-      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2014/08/hidden-pagination-showcase/</guid>
-      <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Video integrations showcase</title>
-      <link>https://testerladies.netlify.com/2014/08/video-integrations-showcase/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2014/08/video-integrations-showcase/</guid>
-      <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Image gallery showcase</title>
-      <link>https://testerladies.netlify.com/2013/02/image-gallery-showcase/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/2013/02/image-gallery-showcase/</guid>
-      <description>&lt;p&gt;And here is the image gallery!
-&lt;/p&gt;</description>
+      <guid>https://rladiesbr.org/2018/05/mas-afinal...-o-que-%C3%A9-r/</guid>
+      <description>&lt;!--showTags:false--&gt;
+
+&lt;!--showPagination:false--&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

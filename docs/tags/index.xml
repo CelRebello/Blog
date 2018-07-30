@@ -2,192 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R-Ladies Brasil Blog</title>
-    <link>https://testerladies.netlify.com/tags/</link>
+    <link>https://rladiesbr.org/tags/</link>
     <description>Recent content in Tags on R-Ladies Brasil Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://testerladies.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rladiesbr.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Cover Image</title>
-      <link>https://testerladies.netlify.com/tags/cover-image/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/cover-image/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dailymotion</title>
-      <link>https://testerladies.netlify.com/tags/dailymotion/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/dailymotion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disqus</title>
-      <link>https://testerladies.netlify.com/tags/disqus/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/disqus/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Gender Gap</title>
-      <link>https://testerladies.netlify.com/tags/gender-gap/</link>
+      <link>https://rladiesbr.org/tags/gender-gap/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/tags/gender-gap/</guid>
+      <guid>https://rladiesbr.org/tags/gender-gap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Github Theme</title>
-      <link>https://testerladies.netlify.com/tags/github-theme/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <title>Interfaces De Desenvolvimento R</title>
+      <link>https://rladiesbr.org/tags/interfaces-de-desenvolvimento-r/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/tags/github-theme/</guid>
+      <guid>https://rladiesbr.org/tags/interfaces-de-desenvolvimento-r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Highlight Code</title>
-      <link>https://testerladies.netlify.com/tags/highlight-code/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <title>Linguagem R</title>
+      <link>https://rladiesbr.org/tags/linguagem-r/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/tags/highlight-code/</guid>
+      <guid>https://rladiesbr.org/tags/linguagem-r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Html Elements</title>
-      <link>https://testerladies.netlify.com/tags/html-elements/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <title>Pacotes</title>
+      <link>https://rladiesbr.org/tags/pacotes/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/tags/html-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Gallery</title>
-      <link>https://testerladies.netlify.com/tags/image-gallery/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/image-gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>https://testerladies.netlify.com/tags/markdown/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pagination</title>
-      <link>https://testerladies.netlify.com/tags/pagination/</link>
-      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/pagination/</guid>
+      <guid>https://rladiesbr.org/tags/pacotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Ladies</title>
-      <link>https://testerladies.netlify.com/tags/r-ladies/</link>
+      <link>https://rladiesbr.org/tags/r-ladies/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/tags/r-ladies/</guid>
+      <guid>https://rladiesbr.org/tags/r-ladies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Ladies Rio</title>
-      <link>https://testerladies.netlify.com/tags/r-ladies-rio/</link>
+      <link>https://rladiesbr.org/tags/r-ladies-rio/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/tags/r-ladies-rio/</guid>
+      <guid>https://rladiesbr.org/tags/r-ladies-rio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Language</title>
-      <link>https://testerladies.netlify.com/tags/r-language/</link>
+      <link>https://rladiesbr.org/tags/r-language/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://testerladies.netlify.com/tags/r-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
-      <link>https://testerladies.netlify.com/tags/social/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag Plugins</title>
-      <link>https://testerladies.netlify.com/tags/tag-plugins/</link>
-      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/tag-plugins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://testerladies.netlify.com/tags/tags/</link>
-      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://testerladies.netlify.com/tags/test/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videos Integration</title>
-      <link>https://testerladies.netlify.com/tags/videos-integration/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/videos-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vimeo</title>
-      <link>https://testerladies.netlify.com/tags/vimeo/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/vimeo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youtube</title>
-      <link>https://testerladies.netlify.com/tags/youtube/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://testerladies.netlify.com/tags/youtube/</guid>
+      <guid>https://rladiesbr.org/tags/r-language/</guid>
       <description></description>
     </item>
     
