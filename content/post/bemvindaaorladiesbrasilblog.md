@@ -17,9 +17,9 @@ keywords:
 
 autoThumbnailImage: false
 thumbnailImagePosition:
-#coverImage: //upload.wikimedia.org/wikipedia/commons/6/67/Rio_de_Janeiro_Mountains.jpg
-#aqui ele busca no static raiz
-coverImage: //images/Rio.jpg
+coverImage:  https://upload.wikimedia.org/wikipedia/commons/6/67/Rio_de_Janeiro_Mountains.jpg
+#static from root
+#coverImage: //images/Rio.jpg
 thumbnailImage:
 #//upload.wikimedia.org/wikipedia/commons/8/86/Rio_de_Janeiro_from_Sugarloaf_mountain%2C_May_2004.jpg
 metaAlignment: center
