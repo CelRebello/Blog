@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cover Image on R-Ladies Brasil Blog</title>
+    <link>https://testerladies.netlify.com/tags/cover-image/</link>
+    <description>Recent content in Cover Image on R-Ladies Brasil Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://testerladies.netlify.com/tags/cover-image/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R-Ladies Brasileiras na área, se derrubar é pênalti.</title>
+      <link>https://testerladies.netlify.com/2018/05/r-ladies-brasileiras-na-%C3%A1rea-se-derrubar-%C3%A9-p%C3%AAnalti./</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://testerladies.netlify.com/2018/05/r-ladies-brasileiras-na-%C3%A1rea-se-derrubar-%C3%A9-p%C3%AAnalti./</guid>
+      <description>&lt;p&gt;Blog Lindo e cheio de conteúdo acima da média. Todo produzido por gente brilhante.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

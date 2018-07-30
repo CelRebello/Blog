@@ -3,7 +3,7 @@ title: "Como R-Ladies começou no Brasil"
 author: Celina Rebello
 date: 2018-05-13
 categories:
-- R- releases
+- R-Ladies
 tags:
 - R-Ladies
 - R-Ladies Rio
@@ -13,19 +13,26 @@ keywords:
 - R-Ladies
 - R-Ladies Rio
 - R-Language
-autoThumbnailImage: true
-thumbnailImagePosition: "top"
-coverImage: //upload.wikimedia.org/wikipedia/commons/6/67/Rio_de_Janeiro_Mountains.jpg
-coverImage: /img/Capa.jpg
-thumbnailImage: ipanema.png
+- Linguagem R
+
+autoThumbnailImage: false
+thumbnailImagePosition:
+#coverImage: //upload.wikimedia.org/wikipedia/commons/6/67/Rio_de_Janeiro_Mountains.jpg
+#aqui ele busca no static raiz
+coverImage: //images/Rio.jpg
+thumbnailImage:
+#//upload.wikimedia.org/wikipedia/commons/8/86/Rio_de_Janeiro_from_Sugarloaf_mountain%2C_May_2004.jpg
 metaAlignment: center
 ---
+<!--showTags:false-->
+<!--showPagination:false-->
 1° de janeiro de 2017 surgia R-Ladies Rio
 <!--more-->
 
-Em 28 de dezembro de 2016, Celina Rebello e Thais Viana entraram em contato com as R-Ladies sobre a abertura de um capítulo no Rio de Janeiro. 1° de janeiro de 2017, **R-Ladies Rio** recebeu a chancela de R-Ladies Global para iniciar suas atividades de inclusão de minorias de gênero e democratização de acesso à Linguagem R na cidade do Rio de Janeiro. No meetup de abertura, contou com a presença de Gabriela de Queiroz, fundadora das **R-Ladies**. 
+Em 28 de dezembro de 2016, Celina Rebello e Thais Viana entraram em contato com as R-Ladies sobre a abertura de um capítulo no Rio de Janeiro. 1° de janeiro de 2017, **R-Ladies Rio** recebeu a chancela de R-Ladies Global para iniciar suas atividades de inclusão de minorias de gênero e democratização de acesso à Linguagem R na cidade do Rio de Janeiro. O meetup de abertura, contou com a presença de Gabriela de Queiroz, fundadora das **R-Ladies**.
+
 Nosso [Código de Conduta](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#portuguese) é praticado em cada um de nossos encontros e epaços.
-*R-Ladies Rio* foi primeiro chapter R-Ladies no Brasil, seguido por São Paulo, Natal, Tocantins, Porto Alegre e Belo Horizonte. R-Ladies Rio está no twitter(@rladiesrio) e no Facebook(www.facebook.com/rladiesrio).Todo o projeto no Rio foi idealizado para somar às demais comunidades, temos integrantes que são R-Ladies, Pyladies, Techmakers, Java by Women, entre muitas outras comunidades, com diversas formações e graduações acadêmicas e profissionais.
+*R-Ladies Rio* foi primeiro chapter R-Ladies no Brasil, seguido por São Paulo, Natal, Tocantins, Porto Alegre e Belo Horizonte. R-Ladies Rio está no twitter(@rladiesrio) e no Facebook(www.facebook.com/rladiesrio). Todo o projeto no Rio foi idealizado para somar às demais comunidades da cena de software livre. Temos integrantes que além de R-Ladies integram comunidades como Pyladies, Women Techmakers, Java by Women, entre muitas outras. Nossa comunidade é diversa e inclusiva quanto à formações, níveis acadêmicos e profissionais, etnias, faixas etárias, credos, nacionalidades, classes sociais. Buscamos proporcionar uma experiência livre de assédio para todos. Não toleramos nenhuma forma de assédio aos participantes.
 
 # Afinal, o que é R-Ladies?
 
@@ -41,9 +48,12 @@ O segundo meetup foi em ipanema. Foram apresentadas Palestras com Keyla Caroline
 
 ![2ndmeetup](/static/img/ipanema.png)
 
-O terceiro meetup aconteceu na UERJ. Foram apresentadas Palestras sobre aplicações de R na Física de no Direito. A Dra Clemência Mora, professora adjunta do Departamento de Física Nuclear e Altas Energias da UERJ, apresentou aplicações do R na Física. A Economista e pesquisadora Helena Riveiro apresentou sua dissertação de mestrado que tratava da eficiência dos juizados especiais, com conceitos de Jurimetria e análise envoltória de dados.
+O terceiro meetup aconteceu na UERJ. Foram apresentadas Palestras sobre aplicações de R na Física de no Direito. A Dra Clemência Mora, professora adjunta do Departamento de Física Nuclear e Altas Energias da UERJ, apresentou aplicações do R na Física. A Economista e pesquisadora Helena Riveiro apresentou sua dissertação de mestrado que trata da eficiência dos juizados especiais, com conceitos de Jurimetria e análise envoltória de dados.
+O quarto meetup aconteceu com o apoio da Oracle Brasil, que nos recebeu calorosamente em seu escritório no Rio de Janeiro. Palestraram Priscila Hohberg e Gabriela de Queiroz, fundadora de R-Ladies Global. Priscila Hohberg palestrou sobre mapas interativos no R com o pacote Leaflets e Gabriela de Queiroz apresentou a palestra "R-Ladies comunidade, missão e visão". 
 
-O avanço dos meetups do Rio de Janeiro contribuiu para a divulgação das R-Ladies no Brasil e a partir dessas ações, surgiram os grupos de Natal, Tocantins, Porto Alegre, e Belo Horizonte.
+O avanço dos meetups de R-Ladies Rio de Janeiro contribuiu para a divulgação das R-Ladies no Brasil. A partir dessas ações, surgiram os grupos de Natal, Tocantins, Porto Alegre, Belo Horizonte, Curitiba, São Paulo e seguimos crescendo.
+
+
 
 ## Contribuem para esse blog
 - Iara Passos
@@ -52,5 +62,5 @@ O avanço dos meetups do Rio de Janeiro contribuiu para a divulgação das R-Lad
 ## Licenças
 
 hugo-tranquilpeak-theme tem licença [GNU General Public License v3.0](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/LICENSE)
-<br>Os Anúncios são para custear o servidor onde o blog é hospedado.</br>
+<br>Os Anúncios presentes nesse blog são para custear a hospedagem do conteúdo.</br>
 
