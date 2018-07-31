@@ -1,5 +1,5 @@
 ﻿---
-title: "Mas, afinal... o que é R?"
+title: "Mas, afinal... o que seria R?"
 author: Celina Rebello
 date: 2018-05-11
 autoThumbnailImage: false
